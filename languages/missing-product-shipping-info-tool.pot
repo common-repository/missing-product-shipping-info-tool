@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Missing_Product_Shipping_Info_tool package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Missing_Product_Shipping_Info_tool 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-11 10:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: build/includes/class-missing-product-shipping-info-list-table.php:45
+msgid "Product name"
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-list-table.php:46
+msgid "Shipping Class"
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-list-table.php:47
+msgid "Weight"
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-list-table.php:48
+msgid "Dimensions (W &times; H &times; L)"
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-tool.php:35
+#: build/includes/class-missing-product-shipping-info-tool.php:58
+#: build/includes/class-missing-product-shipping-info-tool.php:75
+msgid "Missing Product Shipping Info Tool"
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-tool.php:42
+#, php-format
+msgid ""
+"To ensure that shipping costs are calculated accurately, <a href=\"%s"
+"\">check here that all your products have weight and dimensions (width, "
+"height, length) assigned</a>."
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-tool.php:59
+msgid "Missing Shipping Info"
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-tool.php:69
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: build/includes/class-missing-product-shipping-info-tool.php:82
+#, php-format
+msgid ""
+"The following WooCommerce products do not have complete shipping "
+"information. Shipping information includes product weight, dimensions "
+"(width, height, length), and optionally <a href=\"%s\">shipping class</a>. "
+"Virtual (digital) products are not listed."
+msgstr ""
+
+#: build/missing-product-shipping-info-tool.php:66
+msgid "Missing Product Shipping Info tool"
+msgstr ""
+
+#: build/missing-product-shipping-info-tool.php:68
+msgid "Support"
+msgstr ""
